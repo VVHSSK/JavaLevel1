@@ -1,4 +1,4 @@
-package Less4.HWXOGame.Lesson4;
+package JavaLevel1.Lesson4;
 
 import java.util.Random;
 import java.util.Scanner;

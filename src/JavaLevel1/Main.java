@@ -1,6 +1,6 @@
-package Less4.HWXOGame;
+package JavaLevel1;
 
-import Less4.HWXOGame.Lesson4.Lesson4;
+import JavaLevel1.Lesson4.Lesson4;
 
 public class Main {
 
